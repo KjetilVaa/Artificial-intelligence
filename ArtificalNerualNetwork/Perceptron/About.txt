@@ -1,0 +1,6 @@
+I created a virtual envirnoment for my project, which is generally recommended.
+(virutalenv)
+
+Required Libaries:
+    -scipy --> pip3 install scipy
+    -pybrain --> pip3 install pybrain
